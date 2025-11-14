@@ -7,6 +7,9 @@ Bộ troll ransomware giả cực chuyên nghiệp: khóa màn hình, đếm ng�
 ### Cấu trúc file (bắt buộc để trong cùng 1 folder)
 
 ├── hack.html ← File chính (mở cái này)
+<br>
 ├── hack.css ← Style đẹp, responsive
+<br>
 ├── hack.js ← Logic khóa máy + webcam + đếm ngược
+<br>
 └── qr.jpg ← Ảnh QR Momo của mày (hoặc bất kỳ ảnh nào)
